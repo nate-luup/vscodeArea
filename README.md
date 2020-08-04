@@ -1,4 +1,9 @@
 # vscodeArea
+默认有代码智能提示
+
+## 调试
+- 默认支持node调试，`F5`启动调试
+- 若要支持网页调试，需要安装`Debugger for Chrome`
 
 ## 设置
 ### 用户设置
@@ -27,6 +32,8 @@
         - Bracket Pair Colorizer
         - SCSS Formatter
         - node-snippets
+        - vetur (vue 相关)
+        - Vue VSCode Snippets (vue 相关)
     - tools
         - Code Runner
         - open-in-browser
