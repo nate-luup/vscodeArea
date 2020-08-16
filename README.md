@@ -34,6 +34,10 @@
         - node-snippets
         - vetur (vue 相关)
         - Vue VSCode Snippets (vue 相关)
+        - React/Redux/react-router Snippets (react 相关)
+        - React Bootstrap 4 Snippets (react 相关)
+        - Simple React Snippets (react 相关)
+        - React Hooks Snippets (react 相关)
     - tools
         - Code Runner
         - open-in-browser
