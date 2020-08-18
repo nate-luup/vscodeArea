@@ -38,7 +38,9 @@
         - React Bootstrap 4 Snippets (react 相关)
         - Simple React Snippets (react 相关)
         - React Hooks Snippets (react 相关)
+        - Ant Design Snippets (react 相关)
     - tools
+        - Auto Import
         - Code Runner
         - open-in-browser
         - Live Server
@@ -65,3 +67,4 @@ vscode 设置 - followSymlinks - 设置为false， 即可解决！
 # reference
 - [用法](https://juejin.im/post/5b123ace6fb9a01e6f560a4b)
 - [Extensions](https://marketplace.visualstudio.com/)
+- [自定义snippets](https://github.com/bubucuo/ReactArticles/blob/master/react%E9%9C%80%E8%A6%81%E7%9A%84vscode%E6%8F%92%E4%BB%B6.md)
