@@ -15,8 +15,7 @@
 - 工作空间设置的文件保存在当前目录的`.vscode`文件夹下
 
 ### 修改设置
-1. CMD+Shift+P （打开命令面板）
-2. Preferences: Open User Settings 或 Preferences: Open Workspace Settings
+1. Preferences: Open User Settings 或 Preferences: Open Workspace Settings
 
 ## 插件 plugins
 - coding
@@ -24,7 +23,7 @@
         - Auto Close Tag
         - Auto Rename Tag
         - HTML CSS Support
-        - Markdown Preview Enhanced
+        - Markdown All in One
     - javascript | css
         - Path Autocomplete
         - Path Intellisense
@@ -39,6 +38,7 @@
         - Simple React Snippets (react 相关)
         - React Hooks Snippets (react 相关)
         - Ant Design Snippets (react 相关)
+        - React Native Tools (react native 相关)
     - tools
         - Auto Import
         - Code Runner
@@ -52,10 +52,19 @@
     - Git History Diff
     - GitLens -- Git supercharged
 - preference
+    - colorize
     - Terminal
     - Bookmarks
     - filesize
     - vscode-icons
+
+
+
+## 使用
+1. CMD+Shift+P （打开命令面板）
+    - 安装命令行 `install` install 'code' command in PATH
+2. 技巧参考 https://code.visualstudio.com/docs/getstarted/tips-and-tricks
+
 
 ## Q&A
 1. vscode 卡顿解决办法
