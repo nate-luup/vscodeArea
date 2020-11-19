@@ -48,6 +48,7 @@
         - vscode-typescript-tslint-plugin
         - Prettier - Code formatter
         - vscodevim
+        - hexdump `查看二进制的源文件`
 - git | local
     - Git History Diff
     - GitLens -- Git supercharged
