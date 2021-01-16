@@ -49,6 +49,7 @@
         - Prettier - Code formatter
         - vscodevim
         - hexdump `查看二进制的源文件`
+        - Version Lens `查看package.json中依赖包的版本，并且给出最新版本提示`
 - git | local
     - Git History Diff
     - GitLens -- Git supercharged
