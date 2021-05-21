@@ -30,6 +30,7 @@
         - fileheader
         - Bracket Pair Colorizer
         - SCSS Formatter
+        - PostCSS Language Support
         - node-snippets
         - vetur (vue 相关)
         - Vue VSCode Snippets (vue 相关)
