@@ -1,0 +1,38 @@
+{
+  "search.followSymlinks": false,
+  "workbench.colorTheme": "Default Light+",
+  "workbench.editor.enablePreview": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  // react
+  // 当按tab键的时候，会自动提示
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.includeLanguages": {
+    // jsx的提示
+    "javascript": "javascriptreact"
+  },
+  "editor.formatOnSave": true,
+  // 不要有分号
+  "prettier.semi": false,
+  // 使用单引号
+  "prettier.singleQuote": true
+  // end
+}
